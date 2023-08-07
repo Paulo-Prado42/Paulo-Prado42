@@ -14,4 +14,4 @@
 <img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </div><br>
 
-Amo tecnologia e a possibilidade de desenvolver coisas a partir da minha imaginação. Atualmente, estou procurando um estágio para aprender e dar início à minha carreira profissional.
+Amo tecnologia e a possibilidade de desenvolver coisas a partir da minha imaginação. Atualmente, estou procurando um estágio para aprender mais e dar início à minha carreira profissional.
