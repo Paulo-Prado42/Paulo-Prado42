@@ -1,16 +1,17 @@
-### Hi there 👋
+### Opa! Eu sou o Paulo Prado 🤙
 
-<!--
-**Paulo-Prado42/Paulo-Prado42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulo-prado42.github.io/PaginaSobreMim/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-prado-643462277/)
 
-Here are some ideas to get you started:
+![Paulo Prado GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Prado42&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou estudando no momento 
+
+<div style="display: inline_block"><br>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+</div><br>
+
+Amo tecnologia e a possibilidade de desenvolver coisas a partir da minha imaginação. Atualmente, estou procurando um estágio para aprender e dar início à minha carreira profissional.
