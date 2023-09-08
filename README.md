@@ -3,7 +3,7 @@
 [![portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulo-prado42.github.io/PaginaSobreMim/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-prado-643462277/)
 
-![Paulo Prado GitHub stats](https://github-readme-stats-ruddy-six-86.vercel.app/api?username=Paulo-Prado42&show_icons=true&theme=cobalt)
+![Paulo Prado GitHub stats](https://github-readme-stats-nine-nu-66.vercel.app/api?username=Paulo-Prado42&show_icons=true&theme=cobalt)
 
 ## Tecnologias que estou estudando no momento 
 
